@@ -8,26 +8,15 @@ import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 public class LojaApplication {
-	
+
 	@Bean
 	@LoadBalanced
 	public RestTemplate getRestTemplate() {
 		return new RestTemplate();
 	}
-	
 
 	public static void main(String[] args) {
 		SpringApplication.run(LojaApplication.class, args);
 	}
 
-}publicstatistic main (string{})
-
-
-ele ta gordinho
-com uqase 90
-main
-kilos
-quilos
-kg
-qj é quejo
-
+}
