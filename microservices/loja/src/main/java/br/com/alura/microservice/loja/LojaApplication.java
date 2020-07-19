@@ -20,4 +20,14 @@ public class LojaApplication {
 		SpringApplication.run(LojaApplication.class, args);
 	}
 
-}
+}publicstatistic main (string{})
+
+
+ele ta gordinho
+com uqase 90
+main
+kilos
+quilos
+kg
+qj é quejo
+
