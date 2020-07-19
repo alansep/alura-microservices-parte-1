@@ -1,0 +1,9 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+  datasource:
+    url: jdbc:mysql://192.168.0.111:3306/fornecedor
+    username: administrador
+    password: senhasenha
+  
